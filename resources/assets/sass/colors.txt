@@ -1,0 +1,5 @@
+Lilac: #D7ADFF
+Blue: #7A89C2
+Slate Gray: #72788D
+White: #FFFFFF
+Silver: #D9D9D9
